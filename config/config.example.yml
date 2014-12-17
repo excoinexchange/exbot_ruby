@@ -1,0 +1,16 @@
+# Store application setting variables and sensitive information here.
+# Rename this file to "config.yml" and move it to ~/.excoin/.
+
+api_version: "1"
+#api_key: "uncomment this line and paste your API key here"
+#api_secret:  "uncomment this line and paste your API secret here"
+#live_api_key: "uncomment this line and paste your live API key here"
+
+# API replay attack prevention strategy, can be "nonce" or "expire"
+#api_replay_strategy: "expire"
+
+# Multiplier for nonce, can be any positive integer
+#nonce_multiplier: "uncomment and enter nonce multiplier if using nonce"
+
+# Expire interval in seconds
+#expire_interval: "uncomment and enter expire interval if using expire"

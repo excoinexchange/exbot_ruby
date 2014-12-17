@@ -1,6 +1,6 @@
 # Exbot Ruby
 
-An example Ruby bot that listens on the Excoin Faye channel and fills any new order it sees.
+An example Ruby bot that listens on the Excoin bayeux channel and fills any new order it sees.
 
 ## Setup
 
